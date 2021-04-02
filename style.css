@@ -1,0 +1,27 @@
+*
+{
+background: black;
+color: azure;
+}
+.a
+{
+    font-size: xxx-large;
+}
+.b
+{
+    color: aquamarine;
+    font-style: italic;
+}
+.c
+{
+    font-size: xx-large;
+}
+div
+{
+    position: absolute;
+    top: 8px;
+    right: 16px;
+    
+      
+}
+
